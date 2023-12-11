@@ -13,7 +13,7 @@ Tell us about your process.
 
 Challenges you faced during development and how you overcame those change. 
 
-- [Learning and using other technologies such as google fonts. I did not know a lot of the technologies and I had to throughly search Google and Youtube. As well as review previous school term to incorporate fonts and such.]
+- [Learning and using other technologies such as google fonts. I did not know a lot of the technologies and I had to throughly search Google and Youtube. As well as review previous school term to incorporate fonts and such. I also planned to put a video on the banner (an mp4 file) however I could not stage, commit pull and push my portfolio as it exceeded over 100MB. Therefore I had to delete the repository, make a new one, transfer the files I did to a new folder, then created another repo, forked it and then transferred my files unto the new repo. This solution allowed me to finally stage, commit, pull and push my project.]
 
 What have you learned by creating your web portfolio?
 
